@@ -1,13 +1,12 @@
 // File: pages/contact.js (or pages/contact.tsx if using TypeScript)
 import React from 'react';
 
-
 const Contact = () => {
   return (
     <div id="contact-page">
       <h2 id="contact-heading">Contact Me</h2>
       <p id="intro-text">
-        If you have any questions or want to collaborate, feel free to reach out. I'm always open to connecting with like-minded individuals and learning new things.
+        If you have any questions or want to collaborate, feel free to reach out. I&apos;m always open to connecting with like-minded individuals and learning new things.
       </p>
 
       <h3 id="social-heading">Social Media</h3>
@@ -16,7 +15,7 @@ const Contact = () => {
         <li><a href="https://vercel.com/memisbahs-projects" target="_blank" rel="noopener noreferrer" id="vercel-link">Vercel</a></li>
       </ul>
 
-      <h3 id="hobbies-heading">Hobbies & Interests</h3>
+      <h3 id="hobbies-heading">Hobbies &amp; Interests</h3>
       <p id="hobbies-text">
         Outside of coding, I enjoy exploring new design trends, contributing to tech communities, 
         and participating in coding challenges. I believe that creativity plays an essential role in technology, 
